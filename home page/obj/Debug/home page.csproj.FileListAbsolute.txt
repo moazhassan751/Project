@@ -1,0 +1,10 @@
+C:\Users\PARAS TECH\source\repos\home page\home page\bin\Debug\home page.exe.config
+C:\Users\PARAS TECH\source\repos\home page\home page\bin\Debug\home page.exe
+C:\Users\PARAS TECH\source\repos\home page\home page\bin\Debug\home page.pdb
+C:\Users\PARAS TECH\source\repos\home page\home page\obj\Debug\home page.csproj.AssemblyReference.cache
+C:\Users\PARAS TECH\source\repos\home page\home page\obj\Debug\home_page.Form1.resources
+C:\Users\PARAS TECH\source\repos\home page\home page\obj\Debug\home_page.Properties.Resources.resources
+C:\Users\PARAS TECH\source\repos\home page\home page\obj\Debug\home page.csproj.GenerateResource.cache
+C:\Users\PARAS TECH\source\repos\home page\home page\obj\Debug\home page.csproj.CoreCompileInputs.cache
+C:\Users\PARAS TECH\source\repos\home page\home page\obj\Debug\home page.exe
+C:\Users\PARAS TECH\source\repos\home page\home page\obj\Debug\home page.pdb
